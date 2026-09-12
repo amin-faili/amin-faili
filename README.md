@@ -39,4 +39,4 @@ My product case studies and selected academic projects will be published here.
 
 ## Connect With Me
 
-- LinkedIn: YOUR-LINKEDIN-URL
+- LinkedIn: https://www.linkedin.com/in/amin-faili

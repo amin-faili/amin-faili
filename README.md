@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Amin Fili 👋
 
-<!--
-**amin-faili/amin-faili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Product Manager focused on AI-powered products, conversational AI, and digital banking solutions.
 
-Here are some ideas to get you started:
+I am also a Computer Engineering student at the University of Tehran, combining technical knowledge with product management and user-centered problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Associate Product Manager at Adan AI
+- Working on AI assistants and conversational products
+- Interested in AI product management, digital banking, and product analytics
+- Computer Engineering student at the University of Tehran
+- Based in Tehran, Iran
+
+## Areas of Interest
+
+- AI Product Management
+- Conversational AI
+- Digital Banking
+- Product Discovery
+- User Experience
+- Product Analytics
+- Human-in-the-Loop Systems
+
+## Tools & Skills
+
+- Product Requirements Documentation
+- User Stories and Acceptance Criteria
+- Product Roadmaps
+- Figma and Wireframing
+- Jira and Agile Product Development
+- Product Analytics
+- SQL Fundamentals
+- Git and GitHub
+
+## Featured Projects
+
+My product case studies and selected academic projects will be published here.
+
+## Connect With Me
+
+- LinkedIn: YOUR-LINKEDIN-URL

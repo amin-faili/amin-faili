@@ -1,4 +1,4 @@
-# Hi, I'm Amin Fili 👋
+# Hi, I'm Amin Faili 👋
 
 Associate Product Manager focused on AI-powered products, conversational AI, and digital banking solutions.
 
